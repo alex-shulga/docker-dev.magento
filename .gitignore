@@ -1,0 +1,4 @@
+/packages/logs
+/.data
+.env
+/.idea
